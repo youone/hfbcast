@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+package
+config.js
+lib/headers.tgz
+id_rsa.appServer
+.scripts/local/env.txt
+.npmrc_

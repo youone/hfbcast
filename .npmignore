@@ -1,0 +1,10 @@
+.devcontainer
+.aws
+.git*
+.vscode
+sources
+sqlite
+docker*
+webpack.config.js
+wasm
+lib/mathjax.tgz
